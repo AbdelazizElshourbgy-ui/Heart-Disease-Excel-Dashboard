@@ -1,5 +1,7 @@
 # Heart Disease Dashboard - Excel
 
+![Dashboard](Dashboard.png)
+
 ## Project Overview
 This project presents an interactive Heart Disease Dashboard built in Microsoft Excel.
 
